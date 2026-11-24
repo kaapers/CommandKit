@@ -6,8 +6,8 @@ Each person owns whole tabs, so you rarely touch the same files.
 ## Step 0: together (30 min)
 - [x] Create the Xcode project and push to GitHub
 - [x] Teammate clones it
-- [ ] Add `.gitignore` and `README.md`
-- [ ] Create folder groups: Commands, Snippets, Tracker, Journal, Shared
+- [x] Add `.gitignore` and `README.md`
+- [x] Create folder groups: Commands, Snippets, Tracker, Journal, Shared
 - [ ] `TabView` in ContentView with 4 placeholder screens (`Text("Commands")` etc.)
 
 ## Person A: Commands tab, then Journal
