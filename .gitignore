@@ -1,0 +1,32 @@
+# macOS junk
+.DS_Store
+
+# Xcode personal settings (differ per person)
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# Build output
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# CocoaPods (only if you ever use it)
+Pods/
+
+# Secrets - API keys must NEVER go on GitHub
+.env
+Secrets.plist
+Config.xcconfig
+*.p12
+*.mobileprovision
+
+# Misc
+*.swp
+*~
